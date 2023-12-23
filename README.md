@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on full-stack open-source, and other private projects.
+- 🔭 I’m working at adesso Turkey as Young adessi .Net Developer.
 - 🌱 I’m currently learning Full Stack Development, Docker, and more.
 - 👯 I’m looking to collaborate on everything that will provide mutual added value.
 - 📫 How to reach me: emreduman225@hotmail.com
