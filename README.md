@@ -2,7 +2,8 @@
 
 - 🔭 I’m working at adesso Turkey as Young adessi .Net Developer.
 - 🌱 I’m currently learning Full Stack Development, Docker, and more.
-- 👯 I’m looking to collaborate on everything that will provide mutual added value.
+- 👯 I look forward to collaborating on everything that will provide mutual added value, and create high-quality sources for everyone while we learn and create.
+- 📄 I am trying to learn how to create effective, informative, pragmatic resources like documents, videos, and more.
 - 📫 How to reach me: emreduman225@hotmail.com
 
 
