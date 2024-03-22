@@ -13,11 +13,12 @@
 
 
 <p align="left"> 
-<a href="https://discord.com/users/emopusta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/emopusta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-<a href="https://medium.com/@emreduman225" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32"></a> 
-<a href="https://www.linkedin.com/in/emreduman225" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/@emreduman225" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></p>
+<a href="https://discord.com/users/emopusta" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord" width="32" height="32" /></a>
+<a href="https://medium.com/@Emopusta" target="_blank"><img src="https://cdn.simpleicons.org/medium" width="32" height="32"></a> 
+<a href="https://www.linkedin.com/in/emreduman225" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linkedin" width="32" height="32" /></a>
+<a href="https://www.youtube.com/@emreduman225" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/youtube" width="32" height="32" /></a>
+<a href="https://www.reddit.com/user/Emopusta/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/reddit" width="32" height="32" /></a>
+</p>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=Emopusta&label=PROFILE+VIEWS&style=plastic&abbreviated=true&color=brightgreen)
